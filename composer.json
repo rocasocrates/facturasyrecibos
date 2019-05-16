@@ -1,0 +1,11 @@
+{
+	"name": "PHP intermedio",
+	"require": {
+		"php": ">=5.2.4",
+		"phpoffice/phpexcel" : "v1.8.*"
+	},
+	"require-dev":{
+
+		"fzaninotto/Faker" : "dev-master"
+	}
+}
